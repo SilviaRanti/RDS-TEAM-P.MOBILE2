@@ -1,2 +1,2 @@
-# RDS-TEAM-P.MOBILE2
-Aplikasi Kasir
+# Warehouse
+An Android application to keep track of your stock room items.
